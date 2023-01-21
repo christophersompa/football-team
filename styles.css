@@ -6,7 +6,7 @@
 }
 
 .navbar {
-  background-color: #000;
+  background-color: #fff;
 }
 
 .navbar-brand img {
@@ -14,5 +14,31 @@
 }
 
 .brand {
-  color: #fff;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  color: #eda15b;
+  text-transform: uppercase;
+  font-size: 1.7rem;
+}
+
+.nav-item a {
+  color: #474747;
+}
+
+.nav-item a:hover {
+  color: #8e8d8c;
+  transition: 1s;
+}
+
+#navbarNav {
+  padding-right: 50px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 300;
+  font-size: 1rem;
+  color: #eda15b;
+  text-transform: uppercase;
+}
+
+#active {
+  color: #eda15b;
 }
