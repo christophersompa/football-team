@@ -4,3 +4,15 @@
   box-sizing: border-box;
   caret-color: transparent;
 }
+
+.navbar {
+  background-color: #000;
+}
+
+.navbar-brand img {
+  margin: 0px 20px 0px 20px;
+}
+
+.brand {
+  color: #fff;
+}
