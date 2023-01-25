@@ -49,20 +49,18 @@
   object-position: 50% 30%;
 }
 
-.we-are-baiteze {
+.col-sm-12 h3,
+p {
   font-family: 'Poppins', sans-serif;
   font-weight: 200;
+  margin: 0px;
+}
+
+.col-sm-12 h3 {
   padding-top: 50px;
-  text-align: center;
+  padding-left: 50px;
 }
 
-.we-are-baiteze h2 {
-  font-family: 'Poppins', sans-serif;
-  font-weight: 200;
-}
-
-.we-are-baiteze p {
-  font-family: 'Poppins', sans-serif;
-  font-weight: 200;
-  padding-top: 20px;
+.col-sm-12 p {
+  padding: 50px;
 }
