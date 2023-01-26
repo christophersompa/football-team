@@ -49,18 +49,28 @@
   object-position: 50% 30%;
 }
 
-.col-sm-12 h3,
-p {
+.col-sm-12 p {
+  line-height: 40px;
+  text-transform: uppercase;
+  text-align: center;
   font-family: 'Poppins', sans-serif;
   font-weight: 200;
   margin: 0px;
+  font-size: 1rem;
 }
 
 .col-sm-12 h3 {
-  padding-top: 50px;
-  padding-left: 50px;
+  font-family: 'Poppins', sans-serif;
+  text-align: center;
+  font-weight: 100;
+  font-size: 1.7rem;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+  color: #eda15b;
+  padding-top: 60px;
+  padding-left: 0px;
 }
 
 .col-sm-12 p {
-  padding: 50px;
+  padding: 25px 80px 100px 80px;
 }
