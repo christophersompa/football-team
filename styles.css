@@ -67,10 +67,9 @@
   letter-spacing: 8px;
   text-transform: uppercase;
   color: #eda15b;
-  padding-top: 60px;
-  padding-left: 0px;
+  padding-top: 30px;
 }
 
 .col-sm-12 p {
-  padding: 25px 80px 100px 80px;
+  padding: 30px 80px;
 }
