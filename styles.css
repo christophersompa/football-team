@@ -80,3 +80,36 @@
   font-family: 'Poppins', sans-serif;
   font-weight: 200;
 }
+
+.new-fixture {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  text-transform: uppercase;
+}
+
+.new-fixture h3 {
+  letter-spacing: 5px;
+  font-weight: 200;
+  margin-bottom: 30px;
+}
+
+.past-fixtures {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  text-transform: uppercase;
+}
+
+.past-fixtures h3 {
+  letter-spacing: 5px;
+  font-weight: 200;
+  margin-bottom: 30px;
+}
+
+.date {
+  padding-top: 5px;
+}
+
+.goals {
+  color: #eda15b;
+  font-weight: 300;
+}
