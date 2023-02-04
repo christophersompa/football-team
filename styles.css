@@ -4,6 +4,7 @@
   box-sizing: border-box;
   caret-color: transparent;
 }
+
 .navbar-brand:hover {
   opacity: 60%;
 }
@@ -16,27 +17,19 @@
   margin: 0px 20px 0px 50px;
 }
 
-.nav-item a {
-  color: #474747;
-}
-
-.nav-item a:hover {
-  color: #8e8d8c;
-  transition: 1s;
-}
-
-#navbarNav {
-  padding-right: 100px;
+.navbar-nav a {
+  text-align: center;
   font-family: 'Poppins', sans-serif;
   font-weight: 200;
   font-size: 1rem;
-  color: #eda15b;
+  color: #8e8d8c;
   text-transform: uppercase;
   letter-spacing: 2px;
 }
 
-#active {
+.navbar-nav a:hover {
   color: #eda15b;
+  transition: 1s;
 }
 
 .carousel-item img {
