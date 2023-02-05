@@ -9,10 +9,6 @@
   opacity: 60%;
 }
 
-.navbar {
-  background-color: #fff;
-}
-
 .navbar-brand img {
   margin: 0px 20px 0px 50px;
 }
@@ -81,6 +77,9 @@
   font-weight: 200;
 }
 
+.fixtures {
+  margin: 50px 0px;
+}
 .new-fixture {
   font-family: 'Poppins', sans-serif;
   font-weight: 200;
@@ -91,7 +90,6 @@
 .new-fixture h3 {
   letter-spacing: 5px;
   font-weight: 200;
-  padding-bottom: 30px;
 }
 
 .past-fixtures {
@@ -110,4 +108,9 @@
 .goals {
   color: #eda15b;
   font-weight: 300;
+}
+
+.match-vid {
+  margin: 20px 0px;
+  padding: 10px;
 }
