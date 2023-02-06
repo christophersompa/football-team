@@ -116,3 +116,49 @@
   margin: 20px 0px;
   padding: 10px;
 }
+
+.sponsorships {
+  background-color: #eda15b10;
+  padding: 60px 0px;
+}
+
+.sponsorships h3 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 100;
+  font-size: 2.5rem;
+  text-transform: uppercase;
+  letter-spacing: 8px;
+  padding-bottom: 25px;
+  text-align: center;
+}
+
+#sponsor1,
+#sponsor2,
+#sponsor3,
+#sponsor4 {
+  padding: 20px 60px;
+}
+
+#sponsor1 img {
+  width: 90px;
+  height: 100px;
+  filter: grayscale(100%);
+}
+
+#sponsor2 img {
+  width: 120px;
+  height: 70px;
+  filter: grayscale(100%);
+}
+
+#sponsor3 img {
+  width: 110px;
+  height: 100px;
+  filter: grayscale(100%);
+}
+
+#sponsor4 img {
+  width: 110px;
+  height: 100px;
+  filter: grayscale(100%);
+}
