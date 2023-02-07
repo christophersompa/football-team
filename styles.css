@@ -104,9 +104,9 @@
   text-align: center;
 }
 
-.goals {
+/* .goals {
   color: #eda15b;
-}
+} */
 
 .match-vid {
   margin: 20px 0px;
@@ -114,7 +114,7 @@
 }
 
 .sponsorships {
-  background-color: #eda15b0a;
+  /* background-color: #eda15b0a; */
   padding: 40px 0px;
 }
 
@@ -132,7 +132,7 @@
 #youtube,
 #kickitout,
 #leaguelogo {
-  padding: 10px 30px;
+  padding: 10px 50px;
 }
 
 #thefa:hover,
@@ -145,8 +145,8 @@
 }
 
 #thefa img {
-  width: 65px;
-  height: 80px;
+  width: 80px;
+  height: 120px;
   filter: grayscale(100%);
 }
 
