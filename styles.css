@@ -58,7 +58,6 @@
   font-size: 1.7rem;
   letter-spacing: 8px;
   text-transform: uppercase;
-  color: #eda15b;
   padding-top: 30px;
 }
 
@@ -90,7 +89,6 @@
 .new-fixture h3 {
   letter-spacing: 8px;
   font-weight: 100;
-  color: #eda15b;
 }
 
 .past-fixtures {
@@ -104,12 +102,10 @@
   font-weight: 100;
   padding-bottom: 30px;
   text-align: center;
-  color: #eda15b;
 }
 
 .goals {
   color: #eda15b;
-  font-weight: 300;
 }
 
 .match-vid {
@@ -118,8 +114,8 @@
 }
 
 .sponsorships {
-  background-color: #eda15b10;
-  padding: 60px 0px;
+  background-color: #eda15b0a;
+  padding: 40px 0px;
 }
 
 .sponsorships h3 {
@@ -132,32 +128,41 @@
   text-align: center;
 }
 
-#sponsor1,
-#sponsor2,
-#sponsor3,
-#sponsor4 {
-  padding: 20px 60px;
+#thefa,
+#youtube,
+#kickitout,
+#leaguelogo {
+  padding: 10px 30px;
 }
 
-#sponsor1 img {
-  width: 90px;
-  height: 100px;
+#thefa:hover,
+#youtube:hover,
+#kickitout:hover,
+#leaguelogo:hover {
+  cursor: pointer;
+  transition: 0.5s;
+  transform: translateY(-5px);
+}
+
+#thefa img {
+  width: 65px;
+  height: 80px;
   filter: grayscale(100%);
 }
 
-#sponsor2 img {
+#youtube img {
   width: 120px;
-  height: 70px;
+  height: 60px;
   filter: grayscale(100%);
 }
 
-#sponsor3 img {
+#kickitout img {
   width: 110px;
   height: 100px;
   filter: grayscale(100%);
 }
 
-#sponsor4 img {
+#leaguelogo img {
   width: 100px;
   height: 100px;
   filter: grayscale(100%);
