@@ -129,7 +129,6 @@
 .sponsorships h3 {
   font-family: 'Poppins', sans-serif;
   font-weight: 100;
-  font-size: 2.5rem;
   text-transform: uppercase;
   letter-spacing: 8px;
   padding-bottom: 25px;
@@ -140,7 +139,7 @@
 #youtube,
 #kickitout,
 #leaguelogo {
-  padding: 10px 50px;
+  padding: 10px 50px 20px 50px;
 }
 
 #thefa:hover,
@@ -174,4 +173,49 @@
   width: 100px;
   height: 100px;
   filter: grayscale(100%);
+}
+
+footer {
+  padding-bottom: 50px;
+}
+
+footer h3 {
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 8px;
+  line-height: 2;
+  font-weight: 100;
+  text-transform: uppercase;
+  color: #000;
+  text-align: center;
+}
+
+footer p {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  text-transform: uppercase;
+  font-size: 1rem;
+}
+
+.f-nav-list a {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 200;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: black;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.f-nav-list {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.s-nav-links {
+  text-decoration: none;
+  color: #000000a3;
+}
+
+.s-nav-links:hover {
+  cursor: pointer;
 }
