@@ -104,6 +104,14 @@
   text-align: center;
 }
 
+.yt-content h3 {
+  font-family: 'Poppins', sans-serif;
+  letter-spacing: 8px;
+  font-weight: 100;
+  text-align: center;
+  text-transform: uppercase;
+}
+
 /* .goals {
   color: #eda15b;
 } */
