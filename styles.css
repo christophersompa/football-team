@@ -54,7 +54,7 @@
 .col-sm-12 h3 {
   font-family: 'Poppins', sans-serif;
   text-align: center;
-  font-weight: 100;
+  font-weight: 200;
   font-size: 1.7rem;
   letter-spacing: 8px;
   text-transform: uppercase;
@@ -88,7 +88,7 @@
 
 .new-fixture h3 {
   letter-spacing: 8px;
-  font-weight: 100;
+  font-weight: 200;
 }
 
 .past-fixtures {
@@ -99,7 +99,7 @@
 
 .past-fixtures h3 {
   letter-spacing: 8px;
-  font-weight: 100;
+  font-weight: 200;
   padding-bottom: 30px;
   text-align: center;
 }
@@ -107,7 +107,7 @@
 .yt-content h3 {
   font-family: 'Poppins', sans-serif;
   letter-spacing: 8px;
-  font-weight: 100;
+  font-weight: 200;
   text-align: center;
   text-transform: uppercase;
 }
@@ -128,7 +128,7 @@
 
 .sponsorships h3 {
   font-family: 'Poppins', sans-serif;
-  font-weight: 100;
+  font-weight: 200;
   text-transform: uppercase;
   letter-spacing: 8px;
   padding-bottom: 25px;
@@ -176,6 +176,7 @@
 }
 
 footer {
+  padding-top: 20px;
   padding-bottom: 30px;
 }
 
@@ -183,9 +184,10 @@ footer h3 {
   font-family: 'Poppins', sans-serif;
   letter-spacing: 8px;
   line-height: 2;
-  font-weight: 100;
+  font-weight: 200;
   text-transform: uppercase;
   color: #000;
+  font-size: 1rem;
 }
 
 footer p {
@@ -229,4 +231,10 @@ footer p {
 
 .contact-us ul {
   padding: 0px;
+}
+
+.f-about,
+.f-social,
+.contact-us {
+  padding-bottom: 30px;
 }
